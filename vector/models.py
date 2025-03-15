@@ -35,7 +35,7 @@ class Course(object):
 class CourseRepo:
     collection = None
 
-    min_match_score = 0.7
+    min_match_score = 0.5
 
     def __init__(self, collection):
         self.collection = collection
