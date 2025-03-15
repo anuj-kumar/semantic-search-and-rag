@@ -1,2 +1,4 @@
 # semantic-search-and-rag
 A simple Semantic Search and RAG implementation using Langchain, Kafka and MongoDB
+
+![In Action](in-action.png)
